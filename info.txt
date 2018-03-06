@@ -1,0 +1,3 @@
+What is a CapsNet
+
+The activities of the neurons within an active capsule represent the various properties of a particular entity that is present in the image. These properties can include many different types of instantiation parameter such as pose (position, size, orientation), deformation, velocity, albedo, hue, texture, etc.. One very special property is the existence of the instantiated entity in the image.
